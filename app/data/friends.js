@@ -5,7 +5,7 @@
 var friends = [
     {
         "name": "alf",
-        "photo": "../assets/images/alf.jpg",
+        "photo": "./assets/images//alf.jpg",
         "scores": [
             // 21
             5,
@@ -18,7 +18,7 @@ var friends = [
     },
     {
         "name": "Animal",
-        "photo": "../assets/images/animal.jpg",
+        "photo": "./assets/images/animal.jpg",
         "scores": [
             // 22
             2,
@@ -31,7 +31,7 @@ var friends = [
     },
     {
         "name": "Falkor",
-        "photo": "../assets/images/falkor.jpeg",
+        "photo": "./assets/images/falkor.jpeg",
         "scores": [
             // 13
             1,
@@ -44,7 +44,7 @@ var friends = [
     },
     {
         "name": "Harry",
-        "photo": "../assets/images/harry.jpg",
+        "photo": "./assets/images/harry.jpg",
         "scores": [
             // 19
             2,
@@ -57,7 +57,7 @@ var friends = [
     },
     {
         "name": "Oscar",
-        "photo": "../assets/images/oscar.jpg",
+        "photo": "./assets/images/oscar.jpg",
         "scores": [
             // 18
             1,
@@ -70,7 +70,7 @@ var friends = [
     },
     {
         "name": "paddington",
-        "photo": "../assets/images/paddington.jpg",
+        "photo": "./assets/images/paddington.jpg",
         "scores": [
             // 17
             1,
@@ -83,7 +83,7 @@ var friends = [
     },
     {
         "name": "Pan",
-        "photo": "../assets/images/pan.jpg",
+        "photo": "./assets/images/pan.jpg",
         "scores": [
             // 11
             1,
