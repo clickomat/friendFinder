@@ -31,7 +31,7 @@ var friends = [
     },
     {
         "name": "Falkor",
-        "photo": "./assets/images/falkor.jpeg",
+        "photo": "./assets/images/falkor.jpg",
         "scores": [
             // 13
             1,
